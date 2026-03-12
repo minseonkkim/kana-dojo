@@ -889,12 +889,12 @@
     "id": 148,
     "fact": "Japan has 'book-off' stores where you can sell and buy used manga, CDs, games, and electronics at bargain prices.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 149,
     "fact": "The word 'shiawase' (幸せ) for happiness originally meant 'what happens' - suggesting happiness is accepting what comes.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
